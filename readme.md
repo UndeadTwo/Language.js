@@ -1,0 +1,1 @@
+This is a barebones string handler that is supposed to make it easy to have an application with multiple languages.
